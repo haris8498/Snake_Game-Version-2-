@@ -1,0 +1,13 @@
+C:\Users\FFT\source\repos\SuperSnakeGame\SuperSnakeGame\bin\Debug\SuperSnakeGame.exe.config
+C:\Users\FFT\source\repos\SuperSnakeGame\SuperSnakeGame\bin\Debug\SuperSnakeGame.exe
+C:\Users\FFT\source\repos\SuperSnakeGame\SuperSnakeGame\bin\Debug\SuperSnakeGame.pdb
+C:\Users\FFT\source\repos\SuperSnakeGame\SuperSnakeGame\obj\Debug\SuperSnakeGame.csproj.AssemblyReference.cache
+C:\Users\FFT\source\repos\SuperSnakeGame\SuperSnakeGame\obj\Debug\SuperSnakeGame.Properties.Resources.resources
+C:\Users\FFT\source\repos\SuperSnakeGame\SuperSnakeGame\obj\Debug\SuperSnakeGame.csproj.GenerateResource.cache
+C:\Users\FFT\source\repos\SuperSnakeGame\SuperSnakeGame\obj\Debug\SuperSnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\FFT\source\repos\SuperSnakeGame\SuperSnakeGame\obj\Debug\SuperSnakeGame.exe
+C:\Users\FFT\source\repos\SuperSnakeGame\SuperSnakeGame\obj\Debug\SuperSnakeGame.pdb
+C:\Users\FFT\source\repos\SuperSnakeGame\SuperSnakeGame\obj\Debug\SuperSnakeGame.MainMenuForm.resources
+C:\Users\FFT\source\repos\SuperSnakeGame\SuperSnakeGame\obj\Debug\SuperSnakeGame.SnakeSelectionForm.resources
+C:\Users\FFT\source\repos\SuperSnakeGame\SuperSnakeGame\obj\Debug\SuperSnakeGame.GameForm.resources
+C:\Users\FFT\source\repos\SuperSnakeGame\SuperSnakeGame\obj\Debug\SuperSnakeGame.GameOverForm.resources
